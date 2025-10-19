@@ -1,3 +1,5 @@
+🧮 Homework Assignment — Compute Class Average and Grade Mapping (Python)
+
 # Class Grades Calculator
 
 A Python program that reads N grades, computes the class average, and maps results to letter grades (A, B, C, D, F).
