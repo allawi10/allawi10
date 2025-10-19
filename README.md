@@ -22,19 +22,6 @@ Languages: Python, C++
 Tools & Frameworks: Arduino, MATLAB  
 Topics: IoT, Sensors, Microcontrollers, Image Processing (basic)
 
-<br/>
-
-## My GitHub Stats
-
-<a href="https://github.com/allawi10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allawi10&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Ali's GitHub stats"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/allawi10">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allawi10&theme=tokyonight&background=071A2C&ring=4194FD&fire=4194FD&currStreakLabel=FFFFFF" />
-</a>
 
 <br/><br/>
 
@@ -44,11 +31,3 @@ Topics: IoT, Sensors, Microcontrollers, Image Processing (basic)
 - 🌐 Wi-Fi Capture Playground — PCAP data analysis and visualization
 
 <br/>
-
-## Badges (optional)
-![@allawi10's Holopin board (https://holopin.io/api/user/board?user=allawi10)](https://www.holopin.io/@allawi10)
-
-<br/>
-
-## Support
-!["Buy Me A Coffee" (https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/allawi10)
