@@ -1,7 +1,7 @@
 # Hi there, I'm Ali 👋
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/allawi10/allawi10/main/assets/cover.png" alt="cover" />
+  <img width="100%" src="https://raw.githubusercontent.com/allawi10/allawi10/main/assets/A_GitHub_Markdown-styled_profile_README_image_for_.png" alt="cover" />
 </div>
 
 <br/>
